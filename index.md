@@ -51,6 +51,6 @@ I also listen to k-pop some of my most listened to groups are:
 
 Some of my goals I set this year:
 - [x] Find an internship
-- [] Get good grades
+- [ ] Get good grades
 - [x] Get the COVID vaccine
 - [ ] Got to a concert
