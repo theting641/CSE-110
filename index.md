@@ -24,7 +24,7 @@ Some of my fav animes:
 - Hyouka
 - Bungo Stray Dogs
 
-[](1145282504.jpeg)
+![image](1145282504.jpeg)
 
 I love discussing basketball with my friends. My top 10 NBA players right now are:
 1. Lebron James
@@ -40,7 +40,8 @@ I love discussing basketball with my friends. My top 10 NBA players right now ar
 
 Check out my [README](README.md). Right now it is empty, but it will probably fill out as the quarter progresses.
 
-[](49001235382_b982168482_k.jpg)
+![image](49001235382_b982168482_k.jpg)
+
 I also listen to k-pop some of my most listened to groups are: 
 - [Red Velvet](https://www.youtube.com/watch?v=J_CFBjAyPWE)
 - [Big Bang](https://www.youtube.com/watch?v=AqCvYLcnVu0)
